@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Gmail Migration"
+title: "Gmail Login"
 category: tools
 date: 2014-09-23 18:19:32
 ---
