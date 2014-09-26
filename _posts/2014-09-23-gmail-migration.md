@@ -1,13 +1,24 @@
 ---
 layout: page
-title: "Gmail"
+title: "Gmail Migration"
 category: tools
 date: 2014-09-23 18:19:32
 ---
 
 # Migration
 
-We are Moving from Kerio to Gmail, and we're going to need your help getting there.
+### What are we doing?
+
+We're copying everyone's current email messages over to Gmail so that when
+you log in during the coming weeks you haven't lost any messages.
+
+### What do I need to do?
+
+Give us your password in a secure way so that we can move them over.
+
+### Will this change my day-to-day?
+
+Not at all, you will still access your email the same way, we're just taking a copy.
 
 ![Migration](https://cloud.githubusercontent.com/assets/81055/4381165/17ba3bfc-4372-11e4-98dd-1ad99565f6c2.png)
 
@@ -46,24 +57,6 @@ Before entering your details and submitting the form be sure to verify
 
 ![The MigrationWiz Website](https://cloud.githubusercontent.com/assets/81055/4381318/23fabe94-4374-11e4-81a2-c363142c3671.png)
 
-## Gmail Login and Verification
+# That's It
 
-Moving _all_ of your email is going to take the computer-internet-machines a bit of time,
-Dirk will be keeping an eye on all migrations to make sure they're successful.
-
-### The Gmail Email
-
-_try saying that 10 times_
-
-Once Dirk is happy with your migration he is going to send you the gmail new account email
-with a temporary password to get you in.
-
-> If you already have an InterExchange Gmail Account you will not receive this email
-
-![The Gmail Welcome Email](https://cloud.githubusercontent.com/assets/81055/4381338/66ce0136-4374-11e4-9ab6-3eceec48f9ad.png)
-
-### The Gmail Website
-
-[https://www.google.com/a/interexchange.org](https://www.google.com/a/interexchange.org)
-
-![swanson](https://cloud.githubusercontent.com/assets/81055/4381402/760ce2ec-4375-11e4-9222-f4ade407445e.gif)
+We will migrate the majority of your emails over the Gmail, and for now that's all we need from you.
