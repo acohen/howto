@@ -34,9 +34,9 @@ We are just taking a copy now as a step towards the change over.
 
 First up in order to move all your old emails, we're going to need our migration software to login to your account and pull them over.
 
-In order to do this we're using a tool called MigrationWiz. This will allow you to share your sensitive password without telling it to someone
+In order to do this we're using a tool called MigrationWiz. This will allow you to share your sensitive password without telling it to someone.
 
-_reminder: never tell anyone your password_
+**reminder: never tell anyone your password**
 
 ### The MigrationWiz Email
 
