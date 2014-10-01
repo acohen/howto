@@ -17,7 +17,7 @@ The process of setting up all of our mailboxes and moving all of our mail will h
 
 The first stage is migration.
 
-We will move the majority of our mail over to gmail in the weeks before the switch over so that during the,
+We will move the majority of our mail over to gmail in the weeks before the switch over so that during the
 weekend when we go live with Gmail we will only have a few weeks of recent messages to sync, not many years worth.
 
 ### What do I need to do?
