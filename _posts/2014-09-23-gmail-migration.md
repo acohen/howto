@@ -39,7 +39,8 @@ In order to do this we're using a tool called MigrationWiz. This will allow you 
 
 ### The MigrationWiz Email
 
-You're going to receive an email from Dirk that will look very similar to the one below.
+You're going to receive an email from Migration Wiz.
+
 Once you click the link you will be presented with a page asking for your details.
 
 Before entering your details and submitting the form be sure to verify
