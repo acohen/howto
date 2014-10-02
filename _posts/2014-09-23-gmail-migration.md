@@ -54,8 +54,6 @@ Before entering your details and submitting the form be sure to verify
 
 If you don't know your password and need to request a password reset, contact Hiran techsupport@interexchange.org and he can reset it. Once that is done you can enter your updated password into the MigrationWiz.**
 
-![The MigrationWiz Email](https://cloud.githubusercontent.com/assets/81055/4381286/91984864-4373-11e4-837c-fb1e75f0c28a.png)
-
 ### The MigrationWiz Website
 
 Once you click the link you will be presented with a page asking for your details.
@@ -65,8 +63,6 @@ Before entering your details and submitting the form be sure to verify
 * The url in the address bar is secure (look for the padlock)
 * The url in the address bar starts with https://www.migrationwiz.com/Public/UserInformation.aspx
 * The requester email is migrationwiz@interexchange.org
-
-![The MigrationWiz Website](https://cloud.githubusercontent.com/assets/81055/4381318/23fabe94-4374-11e4-81a2-c363142c3671.png)
 
 # That's It
 
