@@ -11,14 +11,13 @@ date: 2014-09-23 18:19:32
 
 InterExchange is moving from having an in-house Kerio email server to using Gmail.
 
-We will be making the official and final change over in October.
+We will be making the official and final change over in October. The currently scheduled change over date is Saturday October 11th, 2014.
 
 The process of setting up all of our mailboxes and moving all of our mail will happen in stages.
 
 The first stage is migration.
 
-We will move the majority of our mail over to gmail in the weeks before the switch over so that during the
-weekend when we go live with Gmail we will only have a few weeks of recent messages to sync, not many years worth.
+We will move the majority of our mail over to gmail before the switch over so that during the weekend when we go live with Gmail we will only have a few weeks of recent messages to sync, not many years worth.
 
 ### What do I need to do?
 
@@ -52,7 +51,8 @@ Before entering your details and submitting the form be sure to verify
 **If you are unsure about your email password, test to see if you know it by logging into webmail 
 [https://mail.interexchange.org](https://mail.interexchange.org) this will help confirm you are putting the correct password into MigrationWiz.
 
-If you don't know your password and need to request a password reset, contact Hiran techsupport@interexchange.org and he can reset it. Once that is done you can enter your updated password into the MigrationWiz.**
+If you don't know your password and need to request a password reset, contact Hiran techsupport@interexchange.org and he can reset it.
+Once that is done you can enter your updated password into the MigrationWiz.**
 
 ### The MigrationWiz Website
 
