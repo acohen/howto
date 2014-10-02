@@ -47,7 +47,7 @@ Before entering your details and submitting the form be sure to verify
 
 * The url in the address bar is secure (look for the padlock)
 * The url in the address bar starts with [https://www.migrationwiz.com/](https://www.migrationwiz.com)
-* The requester email is dkelly@interexchange.org
+* The requester email is migrationwiz@interexchange.org
 
 **If you are unsure about your email password, test to see if you know it by logging into webmail 
 [https://mail.interexchange.org](https://mail.interexchange.org) this will help confirm you are putting the correct password into MigrationWiz.
@@ -64,7 +64,7 @@ Before entering your details and submitting the form be sure to verify
 
 * The url in the address bar is secure (look for the padlock)
 * The url in the address bar starts with https://www.migrationwiz.com/Public/UserInformation.aspx
-* The requester email is dkelly@interexchange.org
+* The requester email is migrationwiz@interexchange.org
 
 ![The MigrationWiz Website](https://cloud.githubusercontent.com/assets/81055/4381318/23fabe94-4374-11e4-81a2-c363142c3671.png)
 
