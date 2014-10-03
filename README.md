@@ -2,14 +2,15 @@
 
 ### Creating Pages
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+* Navigate to `_posts/`
+* Create a new file named `YYYY-MM-DD-title.md`
+* Fill it in with useful information
+* Commit
+* ...
+* $$$ Profit
 
-```bash
-ruby bin/jekyll-page "Some Page Title" category
-```
+All changes are automagically deployed to [howto.interexchange.io](http://howto.interexchange.io)
 
-### Deploying
+### Make a mistake?
 
-```
-git push origin gh-pages
-```
+Just fix it and recommit as quickly as possible.
