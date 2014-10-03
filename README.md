@@ -7,3 +7,9 @@ Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categ
 ```bash
 ruby bin/jekyll-page "Some Page Title" category
 ```
+
+### Deploying
+
+```
+git push origin gh-pages
+```
