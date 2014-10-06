@@ -1,3 +1,11 @@
+---
+layout: page
+title: Filters
+category: gmail
+date: 2014-09-23 18:19:32
+---
+
+
 ![screen shot 2014-10-05 at 9 41 03 pm](https://cloud.githubusercontent.com/assets/6171781/4520713/09fbe74a-4cfa-11e4-9f9c-1dbce6939e18.png)
 ![screen shot 2014-10-05 at 9 41 27 pm](https://cloud.githubusercontent.com/assets/6171781/4520714/0c14240c-4cfa-11e4-9a0d-439703845967.png)
 ![screen shot 2014-10-05 at 9 41 45 pm](https://cloud.githubusercontent.com/assets/6171781/4520715/0f07085a-4cfa-11e4-8d1a-4f1d5df77c52.png)
