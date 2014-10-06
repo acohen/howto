@@ -7,7 +7,7 @@ date: 2014-09-23 18:19:32
 
 ## Google Chrome
 
-<iframe id="ytplayer" type="text/html" width="640" height="390" src="https://www.youtube.com/watch?v=4eWCHch-JGU" frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="390" src="https://www.youtube.com/watch?v=4eWCHch-JGU&output=embed" frameborder="0"></iframe>
 
 ## iPhone / iPad
 
