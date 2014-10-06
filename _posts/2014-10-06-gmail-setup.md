@@ -9,12 +9,11 @@ date: 2014-09-23 18:19:32
 ## iPhone / iPad
 
 
-![screen shot 2014-10-06 at 10 59 34 am](https://cloud.githubusercontent.com/assets/81055/4527739/8f310f16-4d69-11e4-818e-9c51735b8020.png)
-
 1. On your device's home screen, open the Settings application.
 2. Tap Mail, Contacts, Calendars.
-3. Tap Add Account.
-4. Tap Exchange. iOS 4.0+ allows multiple Exchange accounts. However, if you're on a device that doesn't let you add a second account, you could also use IMAP to sync Gmail, CalDAV to sync Google Calendar, and CardDAV to sync contacts.
+3. Tap Add Account. 
+4. Tap Exchange. iOS 4.0+ allows multiple Exchange accounts. However, if you're on a device that doesn't let you add a second account, you could also use IMAP to sync Gmail, CalDAV to sync Google Calendar, and CardDAV to sync contacts. 
+![screen shot 2014-10-06 at 10 59 34 am](https://cloud.githubusercontent.com/assets/81055/4527739/8f310f16-4d69-11e4-818e-9c51735b8020.png)
 5. Enter your full Google Apps email address in the Email field and password in the Password field and tap Next.
 6. In the Server field, enter m.google.com as your server address. Note: To access m.google.com, set the language to English (US).
 7. Leave the Domain field blank.
