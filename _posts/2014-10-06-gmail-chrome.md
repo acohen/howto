@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Gmail Chrome"
-category: tools
+title: Chrome
+category: gmail
 date: 2014-09-23 18:19:32
 ---
 
