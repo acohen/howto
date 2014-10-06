@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Gmail Login"
-category: tools
+title: Login
+category: gmail
 date: 2014-09-23 18:19:32
 ---
 
