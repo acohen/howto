@@ -2,7 +2,6 @@
 layout: page
 title: Migration
 category: gmail
-date: 2014-09-23 18:19:32
 ---
 
 ### What are we doing?
