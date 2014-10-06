@@ -5,9 +5,11 @@ category: tools
 date: 2014-09-23 18:19:32
 ---
 
+## Google Chrome
+
+<iframe id="ytplayer" type="text/html" width="640" height="390" src="https://www.youtube.com/watch?v=4eWCHch-JGU" frameborder="0"/>
 
 ## iPhone / iPad
-
 
 1. On your device's home screen, open the Settings application.
 2. Tap Mail, Contacts, Calendars.
@@ -24,7 +26,6 @@ date: 2014-09-23 18:19:32
 Congrats! You've set up Google Sync!
 
 Synchronization will begin automatically if you have Push enabled on your device. You can also open the Mail, Calendar, or Contacts app and wait a few seconds to start a sync. Note that if you've recently signed up for Google Apps for Work, Education, or Government, it can take a few hours (up to 24) before you're able to sync with your mobile device.
-
 
 ## Android
 
