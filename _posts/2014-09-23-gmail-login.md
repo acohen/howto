@@ -5,8 +5,6 @@ category: tools
 date: 2014-09-23 18:19:32
 ---
 
-## Gmail Login and Verification
-
 Moving _all_ of your email is going to take the computer-internet-machines a bit of time,
 We will be keeping an eye on all migrations to make sure they're successful.
 
