@@ -8,8 +8,23 @@ date: 2014-09-23 18:19:32
 
 ## iPhone / iPad
 
-![screen shot 2014-10-03 at 4 48 34 pm](https://cloud.githubusercontent.com/assets/6171781/4519138/26c0a1c6-4cb0-11e4-81d6-5e17110f6c04.png)
-![screen shot 2014-10-03 at 4 48 55 pm](https://cloud.githubusercontent.com/assets/6171781/4519139/2d7c25a8-4cb0-11e4-8f8e-a970a5d0ccfb.png)
+
+![screen shot 2014-10-06 at 10 59 34 am](https://cloud.githubusercontent.com/assets/81055/4527739/8f310f16-4d69-11e4-818e-9c51735b8020.png)
+
+1. On your device's home screen, open the Settings application.
+2. Tap Mail, Contacts, Calendars.
+3. Tap Add Account.
+4. Tap Exchange. iOS 4.0+ allows multiple Exchange accounts. However, if you're on a device that doesn't let you add a second account, you could also use IMAP to sync Gmail, CalDAV to sync Google Calendar, and CardDAV to sync contacts.
+5. Enter your full Google Apps email address in the Email field and password in the Password field and tap Next.
+6. In the Server field, enter m.google.com as your server address. Note: To access m.google.com, set the language to English (US).
+7. Leave the Domain field blank.
+8. In the Username field, enter your full Google Apps email address.
+9. Your password should already be in the Password field from step 5. If it's not, enter your Google Apps password in the Password field. Tap Next. ![screen shot 2014-10-06 at 10 59 40 am](https://cloud.githubusercontent.com/assets/81055/4527754/a9690e92-4d69-11e4-8114-dc1eca084ab5.png)
+10. Select the Google services you want to sync, such as Mail, Contacts, and Calendars and tap Save. To receive and respond to meeting requests on your device, you need to turn on both Mail and Calendar and New events in your Google Calendar settings. See below for more information.
+
+Congrats! You've set up Google Sync!
+
+Synchronization will begin automatically if you have Push enabled on your device. You can also open the Mail, Calendar, or Contacts app and wait a few seconds to start a sync. Note that if you've recently signed up for Google Apps for Work, Education, or Government, it can take a few hours (up to 24) before you're able to sync with your mobile device.
 
 
 ## Android
