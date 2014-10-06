@@ -5,8 +5,6 @@ category: tools
 date: 2014-09-23 18:19:32
 ---
 
-# Migration
-
 ### What are we doing?
 
 InterExchange is moving from having an in-house Kerio email server to using Gmail.
