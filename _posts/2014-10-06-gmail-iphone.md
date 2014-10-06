@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Gmail iPhone / iPad"
-category: tools
+title: iPhone / iPad
+category: gmail
 date: 2014-09-23 18:19:32
 ---
 
