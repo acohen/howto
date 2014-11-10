@@ -1,5 +1,9 @@
 pairs:
   dk: Dirk Kelly; dirkkelly
+  to: Ted Olsen; tgolsen
+  ns: Nicole Santomasso; ns
+  ac: Alex Cohen; ac
+  nh: Nathan Harper; nathanharper
 email:
-  prefix: pair
-  domain: interexchange.org
+  prefix: iex-eng
+  domain: googlegroups.com
