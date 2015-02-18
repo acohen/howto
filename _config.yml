@@ -14,7 +14,8 @@ codeurl: "https://github.com/interexchange/howto"
 # Default categories (in order) to appear in the navigation
 sections: [
     ["gmail", "Gmail"],
-    ["gmail-setup", "Gmail Setup"]
+    ["gmail-setup", "Gmail Setup"],
+    ["hangouts", "Hangouts"]
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
