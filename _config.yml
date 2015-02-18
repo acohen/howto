@@ -25,9 +25,6 @@ baseurl: ""
 # Dates are not included in permalinks
 permalink: none
 
-# Syntax highlighting
-highlighter: true
-
 # Exclude non-site files
 exclude: ["bin", "README.md"]
 
