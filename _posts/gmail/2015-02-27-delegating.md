@@ -20,7 +20,7 @@ The delegate will not be able to change your password, account settings, or chat
 * Confirm and **Send email to grant access**
 * In the **Accounts** settings menu you should see the delegate with a status of Pending
 
-The delegate will receive a verification email explaining that you've granted access to them. It may take up to 30 minutes after the delegate confirms for the status to change from Pending to accepted.
+The delegate will receive a verification email explaining that you've granted access to them. It may take up to 30 minutes after the delegate confirms for the status to change from Pending to Accepted.
 
 ### Removing Delegated Access
 
